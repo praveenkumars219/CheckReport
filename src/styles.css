@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+ font-family: Roboto;
+ }
+ .listitem{
+     text-decoration: none;
+     margin:20px 30%;
+ }
+ .listitem span{
+     padding:0 20px;
+ }
+ .alignc{
+    text-align: center;
+}
+ .listitem span:hover{
+    text-decoration: underline;
+    cursor:pointer;
+ }
